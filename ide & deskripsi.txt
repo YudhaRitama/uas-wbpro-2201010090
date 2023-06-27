@@ -1,0 +1,14 @@
+Judul Proyek: Perhitungan Nilai Akhir Mahasiswa 
+
+Deskripsi Proyek:
+Perhitungan Nilai Akhir Mahasiswa adalah proyek yang bertujuan untuk membantu mahasiswa untuk menghitung nilai akhir dengan mudah dan efisien.
+
+Fitur yang akan disertakan dalam proyek ini meliputi:
+1. Formulir Input: Pengguna akan dapat memasukkan nilai UTS (dalam rentang nilai 1 - 10) dan UAS (dalam rentang nilai 1 - 10). 
+2. Perhitungan Otomatis: Setelah pengguna mengisi data, PHP akan menghitung BMI mereka secara otomatis.
+3. Tampilan Hasil: Hasil perhitungan akan ditampilkan kepada pengguna dalam bentuk deskripsi hasil akhir.
+
+Keuntungan penggunaan proyek ini adalah memberikan pengguna informasi tentang nilai akhir yang mereka dapatkan setelah melakukan serangkaian ujian
+
+Proyek ini akan diimplementasikan menggunakan bahasa pemrograman PHP dan HTML untuk membangun tampilan antarmuka pengguna.
+
